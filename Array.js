@@ -8,7 +8,7 @@ foo.push(2);
 
 getArrayItems(foo);//1 2
 
-foo.unshift(3);
+foo.unshift(4);
 
 getArrayItems(foo);//3 1 2 
 
