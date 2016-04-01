@@ -5,7 +5,7 @@
 			"name": "Launch",
 			"type": "node",
 			"request": "launch",
-			"program": "${workspaceRoot}/Basic/higherOrderFunction.js",
+			"program": "${workspaceRoot}/Basic/Closures.js",
 			"stopOnEntry": false,
 			"args": [],
 			"cwd": "${workspaceRoot}",
