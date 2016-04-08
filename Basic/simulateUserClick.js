@@ -14,6 +14,7 @@ function userClicked() {
 userClicked();
 
 //first simulateUserClick Sample2
+//It's important !
 
 function longRunningOperation2(callback) {
     setTimeout(callback,3000);
