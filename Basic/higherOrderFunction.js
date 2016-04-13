@@ -1,5 +1,5 @@
 
-//可將function當作參數,稱作為higherOrderFunction 中文暫時取高階函數
+//可將function當作參數,稱作為higherOrderFunction 高階函數
 
 //1
 setTimeout(function(){
